@@ -1,10 +1,11 @@
 # iOS Picker Generator for Sketch
-### [Mock iOS pickers ](https://botmad.github.io/Template.Sketch.ios-picker-generator/) in Sketch using [MagicMirror](http://magicsketch.io/mirror/) Plugin.
+### Mock iOS Picker in Sketch using [MagicMirror](http://magicsketch.io/mirror/) Plugin.
 
-A Sketch file useful when you need to mock one of these iOS pickers. This gizmo is a particular pain to recreate so I made a template for it. Why not add it to your Sketch templates folder.
+A Sketch template useful when you're in need to mock one of these iOS pickers. This gizmo is a particular pain to recreate so I made a template for it.
 
-1. Edit your picker options.
-2. Unselect everything and refresh MagicMirror.
-3. Grab your picker mockup.
+1. If you haven't already, Install [MagicMirror](http://magicsketch.io/mirror/).
+2. Edit your picker options.
+3. Unselect everything and refresh MagicMirror.
+4. Grab your picker mockup.
 
 ![](https://github.com/botmad/iOS-picker-generator--Sketch-template/raw/master/guide/Sketch%20iOS%20Picker%20preview.gif)
