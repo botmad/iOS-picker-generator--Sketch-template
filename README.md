@@ -7,5 +7,4 @@ A Sketch file useful when you need to mock one of these iOS pickers. This gizmo 
 2. Unselect everything and refresh MagicMirror.
 3. Grab your picker mockup.
 
-
-![](explainers/preview-lg.gif)
+![](https://github.com/botmad/iOS-picker-generator--Sketch-template/raw/master/guide/Sketch%20iOS%20Picker%20preview.gif)
